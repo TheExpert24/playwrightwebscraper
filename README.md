@@ -1,1 +1,1 @@
-playwright python web scraper. check scripts/README.md for instructions on how to use
+playwright python web scraper. check scripts/README-scraper.md for instructions on how to use
